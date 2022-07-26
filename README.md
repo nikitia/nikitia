@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Data Science projects
 - 🤔 I’m looking for help with complex Deep Learning algorithms
 - 💬 Ask me about Molecular Biology, Bioinformatics, Data Analysis
-- 📫 How to reach me: https://www.linkedin.com/in/nikitia-ramruthan/
+- 📫 How to reach me: https://www.linkedin.com/in/nikitia/
